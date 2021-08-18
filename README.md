@@ -9,6 +9,10 @@
 # About The Project
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+# Um dos testes de senhas:
+![image](https://user-images.githubusercontent.com/28869251/129823889-f3abc1c0-425f-4565-959a-dd0606b5fad2.png)
+
+
 Apenas um pequeno código que é utilizado para a geração de senhas aleatórias que contém letras maisculas, minusculas, números e caracteres especiais. 
 
 
